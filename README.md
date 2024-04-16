@@ -1,25 +1,30 @@
-<h2 align="center">Bem vindos ao meu perfil!</h2>
+<h2 align="Left">Bem vindos ao meu perfil!</h2>
+
 
 ###
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1DF784&random=false&width=435&lines=Opa!+Eu+sou+o+Leo!)](https://git.io/typing-svg)
 
+
+<p align="left">Atualmente sou estudante de Engenharia de Software, estou no meu 5° Periodo da faculdade.
+<p align="left">Me interesso tanto por front quanto por back-end.
+<p align="left">Eu estudo e me atualizo na área da tecnologia constantemente então sempre espere algo novo vindo do meu perfil!
+
 <div align="center">
 
-<p align="left">Atualmente sou estudante de Engenharia de Software, estou no meu 5° Periodo da faculdade
-Me interesso tanto por front quanto por back-end.
-Eu estudo e me atualizo na área da tecnologia constantemente então sempre espere algo novo vindo do meu perfil!
+###
 
 
-<h3 align="left">Entre em contato comigo!</h3>
+<h3 align="center">Entre em contato comigo!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:leodovalle00@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/Leonardo-do-Valle/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)]()
 
 
-![Leo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoDreamcatcher&theme=blue-green_icons=true)
+![LeoDreamcatcher's Stats](https://github-readme-stats.vercel.app/api?username=LeoDreamcatcher&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
+![LeoDreamcatcher's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeoDreamcatcher&theme=blue-green&hide_border=true)
+![LeoDreamcatcher's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDreamcatcher&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoDreamcatcher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
