@@ -5,6 +5,19 @@
 
 <div align="center">
 
+<p align="left">Atualmente sou estudante de Engenharia de Software, estou no meu 5° Periodo da faculdade
+Me interesso tanto por front quanto por back-end.
+Eu estudo e me atualizo na área da tecnologia constantemente então sempre espere algo novo vindo do meu perfil!
+
+
+<h3 align="left">Entre em contato comigo!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:leodovalle00@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/Leonardo-do-Valle/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)]()
+
+<h3 align="left">My Stack</h3>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoDreamcatcher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
