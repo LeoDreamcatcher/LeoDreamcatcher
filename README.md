@@ -16,7 +16,8 @@ Eu estudo e me atualizo na área da tecnologia constantemente então sempre espe
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/Leonardo-do-Valle/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)]()
 
-<h3 align="left">My Stack</h3>
+
+![Leo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoDreamcatcher&theme=blue-green_icons=true)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoDreamcatcher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
 </div>
