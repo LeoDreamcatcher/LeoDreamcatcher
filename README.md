@@ -1,6 +1,7 @@
 <h2 align="center">Bem vindos ao meu perfil!</h2>
 
 ###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1DF784&random=false&width=435&lines=Opa!+Eu+sou+o+Leo!)](https://git.io/typing-svg)
 
 <div align="center">
 
