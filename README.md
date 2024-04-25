@@ -20,19 +20,17 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/Leonardo-do-Valle/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)]()
 
-
-![LeoDreamcatcher's Stats](https://github-readme-stats.vercel.app/api?username=LeoDreamcatcher&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
-![LeoDreamcatcher's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeoDreamcatcher&theme=blue-green&hide_border=true)
-
-</div>
-
 <div align="center">
-  
-![LeoDreamcatcher's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDreamcatcher&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
+
+![LeoDreamcatcher's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDreamcatcher&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
-###
+![LeoDreamcatcher's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeoDreamcatcher&theme=gotham&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeoDreamcatcher&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
