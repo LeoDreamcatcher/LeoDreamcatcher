@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1DF784&random=false&width=435&lines=Opa!+Eu+sou+o+Leo!)](https://git.io/typing-svg)
 
 
-<p align="left">Atualmente sou estudante de Engenharia de Software, estou no meu 5° Periodo da faculdade.
+<p align="left">Atualmente sou estudante de Engenharia de Software, estou no meu 7° Periodo da faculdade.
 <p align="left">Me interesso tanto por front quanto por back-end.
 <p align="left">Eu estudo e me atualizo na área da tecnologia constantemente então sempre espere algo novo vindo do meu perfil!
 
